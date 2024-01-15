@@ -1,6 +1,6 @@
 # flutter_application_1
 
-A new Flutter project.
+A new Flutter project.this application generates cool-sounding names, such as "newstay", "lightstream", "mainbrake", or "graypine". Users can ask for the next name, favorite the current one, and review the list of favorite names on a separate page. The app is responsive for different screen sizes.
 
 ## Getting Started
 
